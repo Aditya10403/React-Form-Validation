@@ -9,8 +9,8 @@ const NavBar = () => {
               <img src="https://www.databricks.com/wp-content/uploads/2022/04/celebal-tech.png" className="h-8 md:ml-3" alt="CT Logo" />
             </a>
             <div className="flex items-center space-x-6 rtl:space-x-reverse">
-            <a href="https://github.com/Aditya10403/React-Form-Validation/tree/master" className="text-sm text-blue-600 dark:text-blue-500 hover:underline">Source Code</a>
-            <a href="https://adityashukla-portfolio.netlify.app/">
+            <a href="https://github.com/Aditya10403/React-Form-Validation" className="text-sm text-blue-600 dark:text-blue-500 hover:underline">Source Code</a>
+            <a href="https://adityashukla-portfolio.vercel.app/">
             <img src="https://avatars.githubusercontent.com/u/102568652?v=4" className="h-8 rounded-full" alt="myLogo" />
             </a>
             </div>
