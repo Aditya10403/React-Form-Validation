@@ -172,7 +172,7 @@ const Form = () => {
       ) : (
         ""
       )}
-      <div className="min-h-screen p-4 md:p-6 bg-slate-300 flex items-center justify-center text-white font-semibold">
+      <div className="min-h-screen mt-20 p-4 md:p-6 bg-slate-300 flex items-center justify-center text-white font-semibold">
         <div className="container max-w-screen-lg mx-auto">
           <div>
             <h2 className="font-bold text-blue-600 text-3xl text-center py-1">
