@@ -41,8 +41,6 @@ Used `vite` as Vite offers faster build times compared to Create-React-App due t
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
-
 **Prerequisites**
 
 Follow these steps to set up the project locally on your machine.
