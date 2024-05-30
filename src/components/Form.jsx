@@ -54,7 +54,7 @@ const Form = () => {
       setSuccess(true);
       setTimeout(() => {
         navigate("/success", { state: formData });
-      }, 3000);
+      }, 8000);
     } else {
       setErrors(formErrors);
       setTimeout(() => {
